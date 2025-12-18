@@ -1,0 +1,26 @@
+{
+  "nav": {
+    "home": "Home",
+    "skills": "Skills",
+    "about": "About Us",
+    "pricing": "Pricing",
+    "contacts": "Contacts",
+    "talk": "Let's Talk"
+  },
+  "header": {
+    "brand": "Britlex"
+  },
+  "products": {
+    "title": "Products",
+    "more": "Load more",
+    "noMore": "No more products"
+  },
+
+  "hero": {
+    "title1": "Learn",
+    "title2": "Any Foreign",
+    "title3": "Language",
+    "desc": "With our teachers who write a program for each student, you will be able to make your first sketch after the first lesson.",
+    "btn": "Get started"
+  }
+}

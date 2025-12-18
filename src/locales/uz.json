@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "home": "Bosh sahifa",
+    "skills": "Ko'nikmalar",
+    "about": "Biz haqimizda",
+    "pricing": "Narxlar",
+    "contacts": "Kontaktlar",
+    "talk": "Gaplashamiz"
+  },
+  "header": {
+    "brand": "Britlex"
+  },
+  "products": {
+    "title": "Mahsulotlar",
+    "more": "Ko'proq yuklash",
+    "noMore": "Yana mahsulot yo'q"
+  },
+  "hero": {
+    "title1": "O‘rganing",
+    "title2": "Istalgan xorijiy",
+    "title3": "Tilni",
+    "desc": "Bizning o‘qituvchilarimiz har bir o‘quvchi uchun dastur tuzadi va siz birinchi darsdayoq natija ko‘rasiz.",
+    "btn": "Boshlash"
+  }
+}

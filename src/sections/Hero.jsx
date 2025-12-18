@@ -13,7 +13,7 @@ const Hero = () => {
           <img
             src={bulb}
             alt="idea"
-            className="hidden md:block absolute -right-10 top-6 w-12"
+            className="hidden md:block absolute -right-4 top-2 w-20"
           />
 
           <h1 className="text-[28px] sm:text-[36px] md:text-[48px] lg:text-[56px] font-bold leading-tight">
